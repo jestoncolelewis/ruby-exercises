@@ -1,10 +1,12 @@
 # Ruby Basics Exercises
+
 These exercises are designed to complement the [Ruby Basic lessons](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby#basic-ruby) on [The Odin Project](https://www.theodinproject.com/). Each folder contains exercises and specs (tests) for the lessons in the Ruby Basics section.
 
-### Set up local environment (optional)
+## Set up local environment (optional)
+
 1. Before you keep going, check out the [General README](https://github.com/TheOdinProject/ruby-exercises/blob/main/README.md) to follow up the setup ruby instructions for running it locally.
 
-### Usage
+## Usage
 
 1. First change directory into the lesson directory, for example `cd 1_data_types`.
 2. Run the tests for an exercise file, for example `rspec spec/numbers_exercises_spec.rb`. The first test will fail and the rest will be skipped.
@@ -17,37 +19,37 @@ These exercises are designed to complement the [Ruby Basic lessons](https://www.
 
 **TIP**: When there is only one exercise file in a directory (such as in `6_arrays`) you can omit the path to the file and just enter `rspec` to run the tests in that file.
 
-###  Contents
+## Contents
 
-#### 1.Basic Data Types
+### 1.Basic Data Types
 
 - [X] Numbers Exercises
 - [X] Strings Exercises
 
-#### 6.Arrays
+### 6.Arrays
 
 - [X] Array Exercises
 
-#### 7.Hashes
+### 7.Hashes
 
 - [X] Hash Exercises
 
-#### 8.Methods
+### 8.Methods
 
 - [X] Method Exercises
 
-#### 9.Debugging
+### 9.Debugging
 
 - [X] Debugging Exercises
 
-#### 10.Basic Enumerables
+### 10.Basic Enumerables
 
 - [X] Basic Enumerable Exercises
 
-#### 11.Predicate Enumerables
+### 11.Predicate Enumerables
 
 - [X] Predicate Enumerable Exercises
 
-#### 12.Nested Collections
+### 12.Nested Collections
 
 - [ ] Nested Collection Exercises
